@@ -18,7 +18,7 @@ Technologies used for this project:
 Content of the project folder:
 
 ## Members
-Owen Arando
+Owen C Arando
 
 ```
  Top level of project folder: 
