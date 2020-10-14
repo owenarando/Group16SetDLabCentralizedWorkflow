@@ -18,7 +18,8 @@ Technologies used for this project:
 Content of the project folder:
 
 ## Members
-Owen C Arando
+Owen Arando
+Gavin Knoke
 
 ```
  Top level of project folder: 
@@ -45,3 +46,5 @@ Tips for file naming files and folders:
 * use lowercase with no spaces
 * use dashes (not underscore) for word separation
 
+## Members
+Stan Liu
