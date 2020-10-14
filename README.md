@@ -17,6 +17,9 @@ Technologies used for this project:
 ## Content
 Content of the project folder:
 
+## Members
+Owen Arando
+
 ```
  Top level of project folder: 
 ├── .gitignore               # Git ignore file
