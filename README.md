@@ -19,6 +19,7 @@ Content of the project folder:
 
 ## Members
 Owen Arando
+Gavin Knoke
 
 ```
  Top level of project folder: 
