@@ -48,3 +48,4 @@ Tips for file naming files and folders:
 
 ## Members
 Stan Liu
+Ranbir Hundal
